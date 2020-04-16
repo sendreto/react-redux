@@ -1,0 +1,46 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "iPhone XS Max",
+            "image": "iphone-xs-max.png",
+            "price": 7999.00,
+            "description": "Linda tela Super Retina em dois tamanhos, incluindo a maior tela em um iPhone até hoje. Face ID ainda mais rápido. O chip mais inteligente e poderoso em um smartphone. Sistema de câmera dupla inovador com Controle de Profundidade. O iPhone XS é tudo o que você ama no iPhone. Levado ao extremo."
+        },
+        {
+            "id": 2,
+            "name": "Drone Phantom 4",
+            "image": "drone-phantom-4.png",
+            "price": 8600.00,
+            "description": "Agora o céu é o limite para capturar imagens aéreas impressionantes de forma profissional. Com o drone Phantom 4 Pro da DJI é possível tirar fotos com resolução de 20 MP e gravar vídeos 4K em 60 fps. Com estrutura formada por ligas de titânio e magnésio - que conferem leveza e resistência ao equipamento. - o drone tem autonomia de voo de até 30 minutos. Alcança velocidade de até 72 Km/h no modo esporte. Conta, ainda, com sensor com alcance de 30 metros, controle de longo alcance de 7 Km e detecção de obstáculos em 5 direções."
+        },
+        {
+            "id": 3,
+            "name": "GoPro Hero 7",
+            "image": "gopro-hero-7.jpeg",
+            "price": 8600.00,
+            "description": "Resistente e totalmente à prova d'água, a câmera HERO7 Silver da GoPro está sempre pronta para entrar em ação em praticamente todas as situações. Faça vídeos 4K sem tremer e fotos vibrantes com WDR para ter imagens espetaculares de cada momento. Com o GPS, você controla a velocidade, elevação e distância percorrida*. Com uma tela de toque intuitiva, fica fácil acessar os comandos e capturar ótimas imagens. Além disso, suas fotos e vídeos vão direto para o app GoPro no iPhone ou iPad para você compartilhar na hora**."
+        },
+        {
+            "id": 4,
+            "name": "Kindle 10a geração",
+            "image": "kindle.jpeg",
+            "price": 349.00,
+            "description": "Bateria 100% carregada em menos de 4 horas quando conectada por cabo USB a um computador ou em menos de 3 horas quando conectada a um adaptador de tomada. Compatível com redes Wi-Fi ou hotspots públicos ou privados nos padrões 802.11b, 802.11g ou 802.11n com protocolos de segurança WEP, WPA e WPA2 via autenticação com senha ou Wi-Fi Protected Setup (WPS)."
+        },
+        {
+            "id": 5,
+            "name": "Playstation 4",
+            "image": "playstation-4.jpg",
+            "price": 2999.00,
+            "description": "O Console Playstation 4 Slim 1TB Hits Bundle 5 é mais leve e mais fino, o sistema PlayStation 4 dispõe de um disco rígido de 1 TB para garantir tudo o que há de melhor em jogos, músicas e muito mais. E para potencializar ainda mais, o pacote PlayStation Hits oferece jogos incríveis que vão proporcionar entretenimento com jogos dinâmicos e conectados, gráficos e velocidade intensos, com personalização inteligente, recursos sociais integrados intensamente e inovadores recursos de segunda tela."
+        },
+        {
+            "id": 6,
+            "name": "Xbox One X",
+            "image": "xbox-one.jpg",
+            "price": 2500.00,
+            "description": "Seja o primeiro a experimentar o Xbox One X, projetado para os maiores fãs. No Xbox One X os jogos rodam muito melhor. Com 40% mais poder do que qualquer outro console, experimente os verdadeiros jogos 4K. Os jogos ficam com uma ótima resolução, funcionam sem problemas e carregam rapidamente, mesmo em uma tela de 1080p. O Xbox One X também funciona com todos os seus jogos e acessórios do Xbox One, bem como o Xbox Live, uma rede multiplayer avançada, que lhe oferece mais maneiras de jogar."
+        }
+    ]
+}

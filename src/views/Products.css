@@ -1,0 +1,19 @@
+#main-app,
+.product-page {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.products-list li {
+  display: inline-block;
+  margin-bottom: 100px;
+}
+
+.product-item {
+  width: 33%;
+}
+
+.product-item img {
+  max-width: 100%;
+  height: auto;
+}
